@@ -1,0 +1,8 @@
+{
+  "bookId": 1,
+  "bookName": "GOF",
+  "authorId": 1,
+  "publishedYear": 1994,
+  "totalQty": 10,
+  "availableQty": 4
+}
